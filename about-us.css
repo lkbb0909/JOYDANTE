@@ -1,0 +1,42 @@
+*{
+    background:linear-gradient(pink,pink);
+}
+
+.h1 h1
+{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 100px;
+    margin-left: 200px;
+    font-size: 60px;
+}
+
+.first p
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px; 
+    line-height: 1.6; 
+    margin-top: 20px; 
+    margin-left: 200px;
+}
+
+.second p
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px; 
+    line-height: 1.6; 
+    margin-top: 20px; 
+    margin-left: 200px;
+}
+
+.girl-img
+{
+    margin-bottom: 30px;
+}
+
+.girl-img img
+{
+    width: 500px;
+    height: 500px;
+    margin-left: 700px;
+    margin-top: -500px;
+}
